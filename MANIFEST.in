@@ -1,0 +1,3 @@
+exclude *.py
+include setup.py
+include lib/sweddoc/META-*
