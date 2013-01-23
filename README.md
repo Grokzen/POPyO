@@ -95,17 +95,16 @@ Note: It is recomended allways to use a virtual-enviroment when using pyKwalify
 2. Run "make install"
 
 
-## pyKwalify python dependencies
+## POPO python dependencies
 
- - argparse 1.2.1
- - PyYaml 3.10
+No dependencies
 
 
 ## Supported python version
 
- - Python 2.7.x - (Not yet tested)
- - Python 3.1.x - Yes
- - Python 3.2.x - Yes
+ - Python 2.7.x - Yes
+ - Python 3.1.x - (Not yet tested)
+ - Python 3.2.x - (Not yet tested
  - Python 3.3.x - (Not yet tested)
 
 
