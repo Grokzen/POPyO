@@ -75,7 +75,7 @@ def formtest(request, *args, **kwargs):
 
 ## How to install
 
-Note: It is recomended allways to use a virtual-enviroment when using pyKwalify
+Note: It is recomended allways to use a virtual-enviroment when using POPyO
 
 1. Download the release you want to install from a tag, latest stable build or the dev branch.
 2. Run "pip install popo-x.x.x.tar.gz"
